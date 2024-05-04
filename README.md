@@ -1,7 +1,8 @@
 ### Hi there 👋
-
+- I am working on oops and problem solving in Nust. 
+- I look forward to sharing my repositories with you to make connections, and having fun !
 <!--
-**moneeb7/moneeb7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ranabilal351/ranabilal351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
